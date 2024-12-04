@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const urls = [
-        'https://wwdo.lanzoub.com/iZK2S2h7w8uh',
+        'https://miaociyuan.github.io',
         '',
         ''
     ];
